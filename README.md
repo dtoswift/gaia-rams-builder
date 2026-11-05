@@ -1,14 +1,14 @@
 # Gaia RAMS Builder
 
-A single-page tool for creating site-specific RAMS as Word documents from Gaia's content library.
+A single-page tool for creating site-specific RAMS, pre-installation checklists and customer O&M manuals as Word documents from Gaia's content library.
 
 ## Use
 
-Open the published page, choose the work, tick the site conditions, add the site details and click **Create Word document**. The file downloads to your computer.
+Open the published page, choose the work, tick the site conditions, add the site details, choose any combination of RAMS, Checklist and O&M, and click Create. The Word file(s) download to your computer.
 
 ## Status
 
-Content library **v0.1-draft**, assembled from 26 existing Gaia RAMS templates and pending migration review. Every document produced is marked *DRAFT – for approval before issue* and must be approved by the Operations Manager before it goes to site.
+Content library **v0.5-draft**, assembled from 27 existing Gaia RAMS templates and 11 pre-installation checklists and the 2025 O&M master, and pending migration review. Every document produced is marked *DRAFT – for approval before issue* and must be approved by the Operations Manager before it goes to site.
 
 ## How it works
 
